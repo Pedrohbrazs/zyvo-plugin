@@ -1,0 +1,8 @@
+{
+  "name": "zyvo",
+  "version": "1.0.0",
+  "description": "Marketing com IA para pequenas empresas: publique e agende posts nas redes, consulte atendimento, CRM, campanhas e métricas, com confirmação antes de cada ação.",
+  "license": "MIT",
+  "homepage": "https://zyvo.marketing",
+  "repository": "https://github.com/Pedrohbrazs/zyvo-plugin"
+}

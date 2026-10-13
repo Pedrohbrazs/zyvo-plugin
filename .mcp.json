@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zyvo": {
+      "type": "http",
+      "url": "https://zyvo.marketing/api/mcp/app"
+    }
+  }
+}
