@@ -1,5 +1,5 @@
 {
-  "name": "zyvo",
+  "name": "zyvo-plugin",
   "version": "1.0.0",
   "description": "Marketing com IA para pequenas empresas: publique e agende posts nas redes, consulte atendimento, CRM, campanhas e métricas, com confirmação antes de cada ação.",
   "license": "MIT",
@@ -10,5 +10,6 @@
     "email": "pedrobraz@usecredituz.com"
   },
   "privacyPolicyUrl": "https://zyvo.marketing/privacidade.html",
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "displayName": "Zyvo Marketing"
 }
