@@ -10,7 +10,7 @@ Toda ação que escreve dados passa por uma prévia. O Claude mostra o que será
 
 ## Dados enviados
 
-As consultas e as ações são enviadas ao servidor do Zyvo, na conta da empresa que você autorizou. O plugin não envia dados a terceiros.
+As consultas e as ações são enviadas ao servidor do Zyvo, na conta da empresa que você autorizou. O Zyvo envia dados apenas às redes sociais e canais (e-mail, WhatsApp, CRM) que a conta conectar, e nada além disso.
 
 ## Requisitos
 
