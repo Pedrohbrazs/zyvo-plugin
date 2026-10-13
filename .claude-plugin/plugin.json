@@ -4,5 +4,11 @@
   "description": "Marketing com IA para pequenas empresas: publique e agende posts nas redes, consulte atendimento, CRM, campanhas e métricas, com confirmação antes de cada ação.",
   "license": "MIT",
   "homepage": "https://zyvo.marketing",
-  "repository": "https://github.com/Pedrohbrazs/zyvo-plugin"
+  "repository": "https://github.com/Pedrohbrazs/zyvo-plugin",
+  "author": {
+    "name": "Pedro Braz",
+    "email": "pedrobraz@usecredituz.com"
+  },
+  "privacyPolicyUrl": "https://zyvo.marketing/privacidade.html",
+  "icon": ".claude-plugin/icon.png"
 }
