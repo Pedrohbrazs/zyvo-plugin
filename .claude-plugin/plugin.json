@@ -11,5 +11,8 @@
   },
   "privacyPolicyUrl": "https://zyvo.marketing/privacidade.html",
   "icon": ".claude-plugin/icon.png",
-  "displayName": "Zyvo Marketing"
+  "displayName": "Zyvo Marketing",
+  "documentationUrl": "https://zyvo.marketing/llms.txt",
+  "supportUrl": "https://zyvo.marketing/ajuda",
+  "termsOfServiceUrl": "https://zyvo.marketing/termos.html"
 }
